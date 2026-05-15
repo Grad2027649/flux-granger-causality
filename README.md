@@ -5,4 +5,4 @@ The CODES folder contains Python scripts that resample flux tower data (download
 
 The DATA folder contains the resampled .xlsx station files for both the flux tower sites and the corresponding ERA5 coordinates over the same locations, which are the basis for running the univariate Granger-Causality test using the scripts in the CODES folder.
 
-More data and codes will be available as the project and repository are continuously developed.
+More data and codes will be available as this project and repository are continuously developed.
